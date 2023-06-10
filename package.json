@@ -6,7 +6,7 @@
     "country-telephone-code": "^0.2.0",
     "email-validator": "^2.0.4",
     "firebase": "^7.0.0",
-    "gatsby": "^2.15.28",
+    "gatsby": "^4.25.7",
     "password-validator": "^5.0.2",
     "postal-codes-js": "^2.2.1",
     "qrcode-generator": "^1.4.4",
